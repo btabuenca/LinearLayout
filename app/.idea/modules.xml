@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-506060901/LinearLayout.iml" filepath="$PROJECT_DIR$/.idea/modules/-506060901/LinearLayout.iml" group="LinearLayout" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="LinearLayout/app" />
+    </modules>
+  </component>
+</project>
