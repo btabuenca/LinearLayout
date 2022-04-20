@@ -1,4 +1,4 @@
-package es.upm.miw.linearlayout;
+package es.upm.linearlayout;
 
 import android.os.Bundle;
 import android.widget.TextView;
@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // Texto incrustado programaticamente
         TextView tvPrincipal = findViewById(R.id.idTextoPrincipal);
         tvPrincipal.setText(R.string.textoActividad);
     }
